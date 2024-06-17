@@ -6,7 +6,7 @@ require (
 	github.com/apache/apisix-ingress-controller v0.0.0-20210105024109-72e53386de5a
 	github.com/apache/apisix-ingress-controller/test/e2e/testbackend v0.0.0
 	github.com/gavv/httpexpect/v2 v2.3.1
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/gruntwork-io/terratest v0.40.19
 	github.com/onsi/ginkgo/v2 v2.1.4
 	github.com/stretchr/testify v1.8.0
